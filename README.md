@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Aarnav Singh
+# Hi there 👋 I am Aarnav Singh
 
 ## 🌟 Full Stack Developer & Founder at Webstax Inc
 
@@ -9,7 +7,7 @@
 ---
 
 ### 💼 Professional Summary
-I am Aarnav Singh, a passionate and dedicated full stack developer with extensive experience in building high-quality web applications. As the founder of Webstax Inc, I lead a team in delivering top-tier services in SEO, Figma design, social media marketing, and web app development. My expertise lies in developing responsive, user-friendly websites and applications that drive engagement and business growth.
+I am Aarnav Singh, a passionate and dedicated full stack developer with extensive experience in building high-quality web applications. As the founder of Webstax Inc, I lead a team in delivering top-tier services in SEO, Figma design, social media marketing, and web app development. My expertise lies in developing responsive, seo=heavy, user-friendly websites and applications that drive engagement and business growth.
 
 ---
 
@@ -24,7 +22,7 @@ I am Aarnav Singh, a passionate and dedicated full stack developer with extensiv
 ### 📈 Highlights
 - Developed [Webstax](https://github.com/aarnav1729/webstax), a full-service agency website.
 - Created [Taste of Bombay](https://github.com/aarnav1729/tasteofbombay), a responsive restaurant website.
-- Built [Sparks N Sizzles Landing Page](https://github.com/aarnav1729/SnSLandingPage) for a jewelry boutique.
+- Built [Sparks N Sizzles](https://github.com/aarnav1729/SnSLandingPage) for a jewelry boutique.
 - Developed [Insightful](https://github.com/aarnav1729/insightful), a risk-free Instagram insights tracker.
 - Implemented [Ranjit Residency Admin Dashboard](https://github.com/aarnav1729/ranjit-residency-admin) using the MERN stack.
 
@@ -38,7 +36,8 @@ I am Aarnav Singh, a passionate and dedicated full stack developer with extensiv
 ---
 
 ### 📧 Contact
-- **Email:** aarnav.singh@example.com
+- **Email:** [aarnavsingh836@gmail.com](mailto:aarnavsingh836@gmail.com)
+- **Phone:** [+918143025550](tel:+918143025550)
 
 ---
 
@@ -46,5 +45,3 @@ I am Aarnav Singh, a passionate and dedicated full stack developer with extensiv
 I'm always open to new opportunities and collaborations. Feel free to reach out if you are interested in working together or if you have any projects in mind.
 
 ---
-
-Hiring Aarnav Singh will bring a blend of innovation, expertise, and leadership to your team. His proven track record and diverse skill set make him an ideal candidate for any web development role.

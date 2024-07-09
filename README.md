@@ -37,7 +37,6 @@ I am Aarnav Singh, a passionate and dedicated full stack developer with extensiv
 
 ### 📧 Contact
 - **Email:** [aarnavsingh836@gmail.com](mailto:aarnavsingh836@gmail.com)
-- **Phone:** [+918143025550](tel:+918143025550)
 
 ---
 

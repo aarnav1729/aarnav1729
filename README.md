@@ -44,3 +44,7 @@ I am Aarnav Singh, a passionate and dedicated full stack developer with extensiv
 I'm always open to new opportunities and collaborations. Feel free to reach out if you are interested in working together or if you have any projects in mind.
 
 ---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aarnav1729&show_icons=true&theme=radical)
+
+---

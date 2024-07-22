@@ -1,5 +1,4 @@
 # Hi there 👋 I am Aarnav Singh
----
 
 ## 🌟 Full Stack Developer & Founder at [Webstax Inc](https://webstaxx.netlify.app/)
 

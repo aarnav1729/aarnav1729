@@ -1,5 +1,4 @@
 # Hi there 👋 I am Aarnav Singh
----
 
 ### 📈 Highlights
 - Founded [Webstax](https://github.com/aarnav1729/webstax), a fullstack, SEO-heavy, lightning-quick website development agency in Eagan, Minnesota.

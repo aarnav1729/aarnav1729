@@ -8,7 +8,7 @@
 - Optimized [Premier Energies](https://www.premierenergies.com/), the official website of Premier Energies, located at Hitech City, Hyderabad.
 - Built [Sparks N Sizzles](https://aarnav1729.github.io/SnSLandingPage/) for a thriving jewelry boutique located at Banjara Hills, Hyderabad.
 - Developed [Insightful](https://aarnav1729.github.io/bot/), a risk-free, privacy-oriented Instagram insights tracker.
-- Implemented [Ranjit Residency Admin Dashboard](https://github.com/aarnav1729/ranjit-residency-admin) for Ranjit Residency, located at Secunderabad, Telangana.
+- Implemented [Ranjit Residency Dashboard](https://ranjit-residency-admin.vercel.app/) for Ranjit Residency, located at Secunderabad, Telangana.
 
 ---
 

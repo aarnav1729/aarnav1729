@@ -20,11 +20,11 @@ I am Aarnav Singh, a passionate and dedicated full stack developer with extensiv
 ---
 
 ### 📈 Highlights
-- Founded [Webstax](https://github.com/aarnav1729/webstax), a fullstack web development agency specializing in creating SEO-heavy lightning-fast websites in Eagan, Minnesota.
+- Founded [Webstax](https://github.com/aarnav1729/webstax), a fullstack, SEO-heavy, lightning-quick website development agency in Eagan, Minnesota.
 - Created [Taste of Bombay](https://github.com/aarnav1729/tasteofbombay), for a popular restrobar located at Nampally, Hyderabad.
 - Handcrafted [Kohe](https://kohe.netlify.app/), a website for a cozy coffee shop located at Jubilee Hills, Hyderabad.
 - Pioneered [Premier Foundation](https://main--premierfoundation.netlify.app/), a website for Premier Foundation, a subsidary of Premier Energies located at Hitech City, Hyderabad.
-- Optimized [Premier Energies](https://www.premierenergies.com/), the official website of Premier Energies, India's second largest integrated solar cell and module manafacturer, located at Hitech City, Hyderabad.
+- Optimized [Premier Energies](https://www.premierenergies.com/), the official website of Premier Energies, located at Hitech City, Hyderabad.
 - Built [Sparks N Sizzles](https://github.com/aarnav1729/SnSLandingPage) for a thriving jewelry boutique located at Banjara Hills, Hyderabad.
 - Developed [Insightful](https://aarnav1729.github.io/bot/), a risk-free, privacy-oriented Instagram insights tracker.
 - Implemented [Ranjit Residency Admin Dashboard](https://github.com/aarnav1729/ranjit-residency-admin) at Ranjit Residency using the MERN stack located at Secunderabad, Telangana.

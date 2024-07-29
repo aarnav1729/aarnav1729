@@ -13,7 +13,7 @@
 ---
 
 ### 🌐 Links
-- **Startup:** [Webstax Inc](https://webstaxx.netlify.app/)
+- **Startup:** [Webstax](https://webstaxx.netlify.app/)
 - **Resume:** [Resume](https://aarated.netlify.app/)
 - **LinkedIn:** [Aarnav Singh](https://www.linkedin.com/in/aarnavsinghh)
 - **Linktree:** [Aarnav Singh](https://linktr.ee/aarnavsingh)

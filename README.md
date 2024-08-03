@@ -1,7 +1,7 @@
 # Hi there 👋 I am Aarnav Singh
 
 ### 📈 Highlights
-- Founded [Webstax](https://webstaxx.netlify.app/), a fullstack, SEO-heavy, lightning-quick webdev agency in Eagan, Minnesota.
+- Founded [Webstax](https://webstaxinc.vercel.app/), a fullstack, SEO-heavy, lightning-quick webdev agency in Eagan, Minnesota.
 - Created [Taste of Bombay](https://aarnav1729.github.io/tasteofbombay/), for a popular restrobar located at Nampally, Hyderabad.
 - Handcrafted [Kohe](https://kohe.netlify.app/), a website for a cozy coffee shop located at Jubilee Hills, Hyderabad.
 - Pioneered [Premier Foundation](https://main--premierfoundation.netlify.app/), a charitable subsidary of Premier Energies located at Hitech City, Hyderabad.
@@ -13,7 +13,7 @@
 ---
 
 ### 🌐 Links
-- **Startup:** [Webstax](https://webstaxx.netlify.app/)
+- **Startup:** [Webstax](https://webstaxinc.vercel.app/)
 - **Resume:** [Resume](https://aarated.netlify.app/)
 - **LinkedIn:** [Aarnav Singh](https://www.linkedin.com/in/aarnavsinghh)
 - **Linktree:** [Aarnav Singh](https://linktr.ee/aarnavsingh)

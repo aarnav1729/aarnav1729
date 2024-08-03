@@ -1,14 +1,14 @@
 # Hi there 👋 I am Aarnav Singh
 
 ### 📈 Highlights
-- Founded     [Webstax](https://webstaxinc.vercel.app/), a fullstack, SEO-heavy, lightning-quick webdev agency in Eagan, Minnesota.
-- Created     [Taste of Bombay](https://aarnav1729.github.io/tasteofbombay/), for a popular restrobar located at Nampally, Hyderabad.
-- Handcrafted [Kohe](https://kohe.netlify.app/), a website for a cozy coffee shop located at Jubilee Hills, Hyderabad.
-- Pioneered   [Premier Foundation](https://main--premierfoundation.netlify.app/), a charitable subsidary of Premier Energies located at Hitech City, Hyderabad.
-- Optimized   [Premier Energies](https://www.premierenergies.com/), the official website of Premier Energies, located at Hitech City, Hyderabad.
-- Built       [Sparks N Sizzles](https://aarnav1729.github.io/SnSLandingPage/) for a thriving jewelry boutique located at Banjara Hills, Hyderabad.
-- Developed   [Insightful](https://aarnav1729.github.io/bot/), a risk-free, privacy-oriented Instagram insights tracker.
-- Implemented [Ranjit Residency Dashboard](https://ranjit-residency-admin.vercel.app/) for Ranjit Residency, located at Secunderabad, Telangana.
+- Founded      [Webstax](https://webstaxinc.vercel.app/), a fullstack, SEO-heavy, lightning-quick webdev agency in Eagan, Minnesota.
+- Created      [Taste of Bombay](https://aarnav1729.github.io/tasteofbombay/), for a popular restrobar located at Nampally, Hyderabad.
+- Handcrafted  [Kohe](https://kohe.netlify.app/), a website for a cozy coffee shop located at Jubilee Hills, Hyderabad.
+- Pioneered    [Premier Foundation](https://main--premierfoundation.netlify.app/), a charitable subsidary of Premier Energies located at Hitech City, Hyderabad.
+- Optimized    [Premier Energies](https://www.premierenergies.com/), the official website of Premier Energies, located at Hitech City, Hyderabad.
+- Built        [Sparks N Sizzles](https://aarnav1729.github.io/SnSLandingPage/) for a thriving jewelry boutique located at Banjara Hills, Hyderabad.
+- Developed    [Insightful](https://aarnav1729.github.io/bot/), a risk-free, privacy-oriented Instagram insights tracker.
+- Implemented  [Ranjit Residency Dashboard](https://ranjit-residency-admin.vercel.app/) for Ranjit Residency, located at Secunderabad, Telangana.
 
 ---
 

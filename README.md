@@ -4,7 +4,7 @@
 - founded      [webstax](https://webstaxinc.vercel.app/), a fullstack, seo-heavy, lightning-quick webdev agency in eagan, minnesota.
 - created      [taste of bombay](https://aarnav1729.github.io/tasteofbombay/), for a popular restrobar located at nampally, hyderabad.
 - handcrafted  [kohe](https://kohe.netlify.app/), a website for a cozy coffee shop located at jubilee hills, hyderabad.
-- spearheaded  [leaf](https://petp-alpha.vercel.app/), a real-time transporter bidding platform that tracks the complete lifecycle of an RFQ and supports e-reverse auctions!
+- spearheaded  [leaf](https://petp-alpha.vercel.app/), a real-time vendor bidding platform that tracks the complete lifecycle of an RFQ and supports e-reverse auctions!
 - built        [premier foundation](https://main--premierfoundation.netlify.app/), a charitable subsidary of premier energies located at hitech city, hyderabad.
 - optimized    [premier energies](https://www.premierenergies.com/), the official website of premier energies, located at hitech city, hyderabad.
 - pioneered    [sparks n sizzles](https://aarnav1729.github.io/SnSLandingPage/) for a thriving jewelry boutique located at banjara hills, hyderabad.

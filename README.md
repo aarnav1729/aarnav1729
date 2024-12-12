@@ -26,7 +26,7 @@
 ---
 
 ### 📧 contact
-i'm always open to new opportunities and collaborations; feel free to reach out if you are interested in working together or if you have any projects in mind!
+i'm always open to new opportunities and collaborations; feel free to reach out if you are interested in working together!
 - **email:** [aarnavsingh](mailto:aarnavsingh836@gmail.com)
 
 ---

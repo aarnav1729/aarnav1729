@@ -13,7 +13,7 @@
 - developed    [insightful](https://aarnav1729.github.io/bot/), a risk-free, privacy-oriented instagram insights tracker.
 - implemented  [ranjit residency dashboard](https://ranjit-residency-admin.vercel.app/) for ranjit residency, located at secunderabad, telangana.
 - deployed     [sudhana telecom](https://stpl-five.vercel.app), a lightning quick website with a sleek ui/ux for sudhana telecom located in hitech city, hyderabad.
-- piloted      [cyber quantum](https://cyberquantum.vercel.app), a sutom website designed for a cybersecurity and ai/ml firm located in abu dhabi, uae.
+- piloted      [cyber quantum](https://cyberquantum.vercel.app), a custom website designed for a cybersecurity and ai/ml firm located in abu dhabi, uae.
 
 ---
 

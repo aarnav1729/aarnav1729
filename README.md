@@ -3,7 +3,7 @@
 ### 📈 highlights
 - founded      [webstax](https://webstaxinc.vercel.app/), a fullstack, seo-heavy, lightning-quick webdev agency in eagan, minnesota.
 - created      [taste of bombay](https://aarnav1729.github.io/tasteofbombay/), for a popular restrobar located at nampally, hyderabad.
-- handcrafted  [kohe](https://kohe.netlify.app/), a website for a cozy coffee shop located at jubilee hills, hyderabad.
+- handcrafted  [kohe](https://kohe.vercel.app/), a website for a cozy coffee shop located at jubilee hills, hyderabad.
 - spearheaded  [leaf](https://petp-alpha.vercel.app/), a real-time vendor bidding platform that tracks the complete lifecycle of a RFQ and supports e-reverse auctions.
 - lauched      [rm²](https://permatrix.netlify.app/), an interactive racking matrix that supports CRUD, search, autoref, and occupancy tracking for storage facilities.
 - engineered   [qmap](https://p4data.netlify.app/), quality monitoring & analytics platform that visualizes live data through inspection type, shift, and line breakdown.
@@ -19,7 +19,7 @@
 - **startup:**  [webstax](https://webstaxinc.vercel.app/)
 - **resume:**   [resume](https://aarated.netlify.app/)
 - **linkedin:** [aarnav singh](https://www.linkedin.com/in/aarnavsinghh)
-- **navlinks:** [aarated](https://aarrated.netlify.app/)
+- **navlinks:** [aarated](https://aarnav.vercel.app/)
 
 ---
 

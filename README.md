@@ -18,7 +18,7 @@
 
 ### 🌐 links
 - **startup:**  [webstax](https://webstaxinc.vercel.app/)
-- **resume:**   [resume](https://aarated.netlify.app/)
+- **resume:**   [resume](https://aarnavsingh.vercel.app/)
 - **linkedin:** [aarnav singh](https://www.linkedin.com/in/aarnavsinghh)
 - **navlinks:** [aarated](https://aarnav.vercel.app/)
 

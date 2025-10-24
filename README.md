@@ -14,6 +14,7 @@
 - implemented  [ranjit residency dashboard](https://ranjit-residency-admin.vercel.app/) for ranjit residency, located at secunderabad, telangana.
 - deployed     [sudhana telecom](https://stpl-five.vercel.app), a lightning quick website with a sleek ui/ux for sudhana telecom located in hitech city, hyderabad.
 - piloted      [cyber quantum](https://cyberquantum.vercel.app), a custom website designed for a cybersecurity and ai/ml firm located in abu dhabi, uae.
+- architectured [spot](https://spot.premierenergies.com/): smart processing of tickets, an enterprise ready multi-department ticketing tool that uses a predefined map of assignees to smart assign tickets to relevant users to reduce SLAs and capture detailed analytics.
 
 ---
 

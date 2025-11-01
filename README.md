@@ -1,7 +1,7 @@
 # aarnav singh
 
 ### 📈 highlights
-- founded      [webstax](https://webstaxinc.vercel.app/), a fullstack, seo-heavy, lightning-quick custom software solutions provider in eagan, minnesota & hyderabad, india.
+- founded      [webstax](https://webstaxinc.vercel.app/), a custom software solutions provider in eagan, minnesota & hyderabad, india.
 - created      [taste of bombay](https://aarnav1729.github.io/tasteofbombay/), for a popular restrobar located at nampally, hyderabad.
 - handcrafted  [kohe](https://kohe.vercel.app/), a website for a cozy coffee shop located at jubilee hills, hyderabad.
 - spearheaded  [leaf](https://leaf.premierenergies.com:10443/), a real-time vendor bidding & grading platform that tracks the complete lifecycle of an order.
